@@ -1,20 +1,20 @@
 # Resume
 ## Alex Malkov
 
-###Contacts
+### Contacts
 **alexex@gmail.com** 
-*Discord:* __Metr_#3992__
+*Discord:* Metr_#3992
 
-###Summary
+### Summary
 I want to become skillful developer, with main orientation on user interfaces. Because in my opinion excellent user experience is important as much as functionality of an app
 
-###Skills
+### Skills
 * HTML/CSS
 * JS basics
 * Python basics
 * OOP
 
-###Code examples:
+### Code examples:
 
 [Does my number look big in this?](https://www.codewars.com/kata/52597aa56021e91c93000cb0)
 ```javascript
@@ -55,19 +55,19 @@ function order(words){
   
 	for( let x of words_list ){
 		let num = x.match(patt1);
-    new_list[parseInt(num)-1] = x;
+		new_list[parseInt(num)-1] = x;
 	}
 
 	return new_list.join(" ");
 }
 ```
 
-###Experience
+### Experience
 Worked on couple layouts from psd templates. Had minor experience on creating and administration landing page using Wordpress CMS
 
-###Education (including courses, seminars, lectures, online learning)*
+### Education (including courses, seminars, lectures, online learning)*
 Studied python(courses, myself),C++(university), javascript(myself). Couple courses on codeacademy, htmlacademy, youtube (various technologies).
 Currently i am studying in RS school
 
-###English
+### English
 I have studied english since 1998 (courses, university, online)
