@@ -3,3 +3,6 @@ body {
 	margin-right: auto;
 	margin-left: auto;
 }
+.photo {
+	max-width: 300px;
+}
