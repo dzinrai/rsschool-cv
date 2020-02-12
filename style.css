@@ -1,0 +1,8 @@
+body {
+	max-width: 1024px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.photo {
+	max-width: 300px;
+}
