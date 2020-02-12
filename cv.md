@@ -2,8 +2,8 @@
 ## Alex Malkov
 
 ### Contacts
-**alexex@gmail.com** 
-*Discord:* Metr_#3992
+>**alexex@gmail.com** 
+>*Discord:* Metr_#3992
 
 ### Summary
 I want to become skillful developer, with main orientation on user interfaces. Because in my opinion excellent user experience is important as much as functionality of an app
